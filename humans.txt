@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Josue Pacheco -- Developer -- @josuedev
 
 # THANKS
 
-    <name>
+    
 
 # TECHNOLOGY COLOPHON
 
